@@ -6,8 +6,8 @@
     <description>Cordova Zeep Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,zeep,zip,unzip,FiNe,ecosystem:cordova,cordova-android,cordova-ios,cordova-windows</keywords>
-    <repo>https://github.com/FortuneN/cordova-plugin-zeep.git</repo>
-    <issue>https://github.com/FortuneN/cordova-plugin-zeep/issues</issue>
+    <repo>https://github.com/joaophoenix/cordova-plugin-zeep.git</repo>
+    <issue>https://github.com/joaophoenix/cordova-plugin-zeep/issues</issue>
 
     <dependency id="cordova-plugin-file" version=">=6.0.2-OS2" />
 
